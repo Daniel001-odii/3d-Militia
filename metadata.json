@@ -1,0 +1,6 @@
+{
+  "name": "Mini Militia 3D: Doodle Strike",
+  "description": "Fast-paced 3D multiplayer arena shooter inspired by Mini Militia, featuring rocket jetpack flight, custom loadouts, and real-time room battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
